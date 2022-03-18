@@ -1,5 +1,6 @@
 # Html-Css
  HTML5 e CSS3 do Curso em Vídeo.
+ <p>Todos os exercícios foram realizados durante as aulas, seguindo as instruções do professor. Os desafios foram realizados por mim, inclusive o desafio 10 que foi feito antes da correção do professor. Comparando a página feita pelo professor (exercício 17) e a minha, era nítido que precisava de ajustes, mas não fiz alterações. Mesmo não fazendo uma página top, gostei do resultado. Tudo faz parte do aprendizado ;)</p>
 
 Link's para acessar os exercícios '.html':
 
