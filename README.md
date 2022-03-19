@@ -8,7 +8,7 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap002/index.html">Exercício 002</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap003/index.html">Exercício 003</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap004/index.html">Exercício 004</a></p>
-<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap005/index.html">Exercício 005</a></p>
+
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap006/index.html">Exercício 006</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap007a/index.html">Exercício 007a</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap007b/index.html">Exercício 007b</a></p>
@@ -32,7 +32,7 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap015c/index.html">Exercício 015c</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap015d/index.html">Exercício 015d</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap016a/index.html">Exercício 016a</a></p>
-<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap016b/index.html">Exercício 016s</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap016b/index.html">Exercício 016b</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap016c/index.html">Exercício 016c</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap017a/index.html">Exercício 017a</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap017b/index.html">Exercício 017b</a></p>
