@@ -1,6 +1,6 @@
 # Html-Css
  HTML5 e CSS3 do Curso em Vídeo.
- <p>Todos os exercícios foram realizados durante as aulas, seguindo as instruções do professor. Os desafios foram realizados por mim, inclusive o desafio 10 que foi feito antes da correção do professor. Comparando a página feita pelo professor (exercício 17) e a minha, era nítido que precisava de ajustes, mas não fiz alterações. Mesmo não fazendo uma página top, gostei do resultado. Tudo faz parte do aprendizado ;)</p>
+ <p>Todos os exercícios foram realizados durante as aulas, seguindo as instruções do professor. Os desafios foram realizados por mim, inclusive o desafio 10 que foi feito antes da correção do professor. Comparando a página feita pelo professor (exercício 17a) e a minha, era nítido que precisava de ajustes, mas não fiz alterações. Mesmo não fazendo uma página top, gostei do resultado. Tudo faz parte do aprendizado ;)</p>
 
 Link's para acessar os exercícios '.html':
 
@@ -36,6 +36,12 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap016c/index.html">Exercício 016c</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap017a/index.html">Exercício 017a</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap017b/index.html">Exercício 017b</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019a/fundo001.html">Exercício 019a</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019b/fundo002.html">Exercício 019b</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019c/fundo003.html">Exercício 019c</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019d/fundo004.html">Exercício 019d</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019e/fundo005.html">Exercício 019e</a></p>
+
 
 Link's para acessar os desafios '.html':
 
