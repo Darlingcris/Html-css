@@ -34,7 +34,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: lightblue;
+    color: yellow;
 }
 
 section {
@@ -53,17 +53,22 @@ article {
     padding-left: 10px;
 }
 
-article.texto {
-    background-color: rgba(0, 0, 0, 0.597);
+article.texto p {
+    background-color: rgba(0, 0, 0, 0.282);
     color: white;
     padding: 5px;
+    width: 240px;
+    top: 40px;
+    position: absolute;
 }
 
 #img {
     background: black url('imagens/background001.jpg') right center no-repeat fixed;
     background-size: cover;
     width: 99%;
+    height: 400px;
     margin-bottom: 40px;
+    position: relative;
 }
 
 #imgs {
@@ -71,6 +76,8 @@ article.texto {
     background-size: cover;
     width: 99%;
     margin-bottom: 40px;
+    height: 400px;
+    position: relative;
 }
 
 footer {
