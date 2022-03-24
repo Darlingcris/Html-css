@@ -55,6 +55,6 @@ Link's para acessar os desafios '.html':
 <a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Desafio 006</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Desafio 007</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Desafio 009</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a>
-<a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a>
+<br><a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a><br>
+<br><a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a><br>
 
