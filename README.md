@@ -43,7 +43,7 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019e/fundo005.html">Exercício 019e</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019f/fundo006.html">Exercício 019f</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019g/fundo007.html">Exercício 019g</a></p>
-
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap020/index.html">Exercício 020</a></p>
 
 Link's para acessar os desafios '.html':
 
@@ -56,5 +56,5 @@ Link's para acessar os desafios '.html':
 <a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Desafio 007</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Desafio 009</a><br>
 <br><a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a>
 
