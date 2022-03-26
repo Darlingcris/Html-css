@@ -44,6 +44,8 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019f/fundo006.html">Exercício 019f</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap019g/fundo007.html">Exercício 019g</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap020/index.html">Exercício 020</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021a/tabela.html">Exercício 021a</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021b/tabela.html">Exercício 021b</a></p>
 
 Link's para acessar os desafios '.html':
 
