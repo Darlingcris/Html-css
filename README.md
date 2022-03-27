@@ -48,6 +48,7 @@ Link's para acessar os exercícios '.html':
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021b/tabela.html">Exercício 021b</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021c/tabela.html">Exercício 021c</a></p>
 <p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021d/tabela.html">Exercício 021d</a></p>
+<p><a href="https://darlingcris.github.io/Html-css/Exercicios/cap021e/tabela.html">Exercício 021e</a></p>
 
 Link's para acessar os desafios '.html':
 
@@ -59,8 +60,9 @@ Link's para acessar os desafios '.html':
 <a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Desafio 006</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Desafio 007</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Desafio 009</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/013a/tabela.html">Desafio 013a</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/013b/tabela.html">Desafio 013b</a><br>
-<br><a href="https://darlingcris.github.io/Html-css/desafios/013c/tabela.html">Desafio 013c</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/013/tabela.html">Desafio 013</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/014/tabela.html">Desafio 014</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/015/tabela.html">Desafio 015</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/016/tabela.html">Desafio 016</a>
