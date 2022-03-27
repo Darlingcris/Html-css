@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&display=swap');
+        table {
+            border-collapse: collapse;
+        }
+        
+        th {
+            border: 2px solid rgb(8, 170, 57);
+            color: rgb(2, 130, 130);
+            font-family: 'Vollkorn SC', Arial, Helvetica, sans-serif;
+            font-size: 1.5em;
+            padding: 10px;
+        }
+        
+        td {
+            border: 2px solid rgb(8, 170, 57);
+            padding: 10px;
+            width: 130px;
+            text-align: center;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th scope="col">Grupo</th>
+                <th scope="col">Nomes</th>
+                <th scope="colgroup" colspan="3 ">Filmes</th>
+            </tr>
+        </thead>
+        <tr>
+            <th scope="rowgroup" rowspan="3">Mulheres</th>
+            <td>Ana Maria Santos</td>
+            <td>Alien</td>
+            <td>Rambo</td>
+            <td>Vingadores</td>
+        </tr>
+        <tr>
+            <td>Beatriz Souza</td>
+            <td>Hulk</td>
+            <td>Inception</td>
+            <td>Batman</td>
+        </tr>
+        <tr>
+            <td>Cláudia Melo</td>
+            <td>Oblivion</td>
+            <td>Matrix</td>
+            <td>Big Hero</td>
+        </tr>
+
+        <tr>
+            <th scope="rowgroup" rowspan=" 3 ">Homens</th>
+            <td>Bruno Mendoça</td>
+            <td>Intocáveis</td>
+            <td>Amnésia</td>
+            <td>Gladiador</td>
+        </tr>
+        <tr>
+            <td>Daniel Lourenço</td>
+            <td>Wall-E</td>
+            <td>Oldboy</td>
+            <td>Dangal</td>
+        </tr>
+        <tr>
+            <td>Fabiano Mota</td>
+            <td>Star Wars 5</td>
+            <td>Taxi Driver</td>
+            <td>Toy Story</td>
+        </tr>
+    </table>
+</body>
+
+</html>
