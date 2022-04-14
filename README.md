@@ -58,7 +58,7 @@ Link's para acessar os desafios '.html':
 <a href="https://darlingcris.github.io/Html-css/desafios/003/index.html">Imagens/parágrafos/quebra de linhas</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/004/index.html">Emoji</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/005/index.html">Links</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Tag abrr</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Tag abbr</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Listas</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Incorporção de vídeos</a><br>
 <a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Imagens responsíveis/Video</a><br>
