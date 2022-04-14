@@ -53,17 +53,17 @@ Link's para acessar os exercícios '.html':
 
 Link's para acessar os desafios '.html':
 
-<a href="https://darlingcris.github.io/Html-css/desafios/001/index.html">Desafio 001</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/002/index.html">Desafio 002</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/003/index.html">Desafio 003</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/004/index.html">Desafio 004</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/005/index.html">Desafio 005</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Desafio 006</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Desafio 007</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Desafio 009</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Desafio 010</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">Desafio 012</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/013/tabela.html">Desafio 013</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/014/tabela.html">Desafio 014</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/015/tabela.html">Desafio 015</a><br>
-<a href="https://darlingcris.github.io/Html-css/desafios/016/tabela.html">Desafio 016</a>
+<a href="https://darlingcris.github.io/Html-css/desafios/001/index.html">Espaços</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/002/index.html">Favicon</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/003/index.html">Imagens/parágrafos/quebra de linhas</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/004/index.html">Emoji</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/005/index.html">Links</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/006/index.html">Tag abrr</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/007/index.html">Listas</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/009/index.html">Incorporção de vídeos</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/010/index.html">Imagens responsíveis/Video</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/012/index.html">EfeitoParallax</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/013/tabela.html">Tabela1</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/014/tabela.html">Tabela2</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/015/tabela.html">Tabela3</a><br>
+<a href="https://darlingcris.github.io/Html-css/desafios/016/tabela.html">Tabela4</a>
